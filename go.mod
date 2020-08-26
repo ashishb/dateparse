@@ -1,3 +1,3 @@
-module dateparse
+module github.com/ashishb/dateparse
 
 go 1.14
